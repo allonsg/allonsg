@@ -2,7 +2,7 @@
 
 I'm Junior Frontend developer, so feel free to browse my page and look at the interesting things I have here 😉
 
-- 🔭 I'm currently working on healing my body and mind 🧘
+- ⚡ Fun fact: today's date is written on your right in the corner 🧘
 - 🌱 I’m currently learning TypeScript and MobX 🎓
 - 💬 Ask me anything you want, it won't be hard for me to answer 🐣
 
