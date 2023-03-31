@@ -3,7 +3,7 @@
 I'm Junior Frontend developer, so feel free to browse my page and look at the interesting things I have here 😉
 
 - ⚡ Fun fact: today's date is written on your right in the corner 🧘
-- 🌱 I’m currently learning TypeScript and MobX 🎓
+- 🌱 I’m currently learning Node.js and PostgreSQL 🎓
 - 💬 Ask me anything you want, it won't be hard for me to answer 🐣
 
 My [LinkedIn](https://www.linkedin.com/in/gabriel-ugbaja-a14534263/) maybe you'll find there something is needed for you
