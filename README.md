@@ -9,4 +9,4 @@ For more professional insights, connect with me on [LinkedIn](https://www.linked
 
 Thank you for stopping by!
 
-🌈👊💪
+👊💪
